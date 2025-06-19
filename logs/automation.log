@@ -1,0 +1,120 @@
+2025-06-19 10:59:57 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\PetStoreAutomation\testng.xml
+
+2025-06-19 10:59:57 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 10:59:59 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 10:59:59 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 11:00:48 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\PetStoreAutomation\testng.xml
+
+2025-06-19 11:00:48 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 11:00:49 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 11:00:50 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 11:02:34 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\PetStoreAutomation\testng.xml
+
+2025-06-19 11:02:34 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 11:02:37 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 11:02:37 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 11:02:38 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 11:02:38 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 11:02:39 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 11:02:40 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 11:02:41 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 11:25:31 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 11:25:34 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 11:25:34 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 11:25:35 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 11:25:35 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 11:25:36 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 11:25:37 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 11:25:39 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 11:58:11 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 11:58:14 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 11:58:14 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 11:58:15 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 11:58:16 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 11:58:17 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 11:58:18 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 11:58:57 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 11:58:59 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 11:58:59 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 11:59:00 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 11:59:00 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 11:59:01 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 11:59:03 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 11:59:04 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 11:59:59 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:00:01 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:00:01 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:00:03 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:00:04 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:00:05 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 12:00:06 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 12:00:49 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:00:52 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:00:52 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:00:53 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 12:00:53 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:00:54 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:00:55 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 12:00:56 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 12:02:50 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:02:52 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:02:52 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:02:53 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:02:55 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:02:56 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 12:02:57 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 12:06:14 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:06:16 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:06:16 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:06:17 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 12:06:17 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:06:19 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:06:20 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 12:08:19 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:08:22 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:08:22 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:08:23 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:08:24 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:08:26 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 12:08:27 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 12:10:43 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:10:46 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:10:46 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:10:47 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:10:48 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:10:49 INFO  UserTest2Properties:85 - **************************Deleting the user***********************
+2025-06-19 12:10:50 INFO  UserTest2Properties:88 - **************************User is deleted***********************
+2025-06-19 12:12:49 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:12:52 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:12:52 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:12:53 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 12:12:53 INFO  UserTest2Properties:64 - **************************Updating user***********************
+2025-06-19 12:12:54 INFO  UserTest2Properties:75 - **************************User is updated***********************
+2025-06-19 12:12:56 INFO  UserTest2Properties:92 - **************************Deleting the user***********************
+2025-06-19 12:12:57 INFO  UserTest2Properties:95 - **************************User is deleted***********************
+2025-06-19 12:14:44 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:14:47 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:14:47 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:14:48 INFO  UserTest2Properties:64 - ********** Updating user **********
+2025-06-19 12:14:49 INFO  UserTest2Properties:82 - ********** Verifying update **********
+2025-06-19 12:14:51 INFO  UserTest2Properties:103 - **************************Deleting the user***********************
+2025-06-19 12:14:52 INFO  UserTest2Properties:106 - **************************User is deleted***********************
+2025-06-19 12:15:36 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:15:39 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:15:39 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:15:40 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 12:15:40 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:15:41 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:15:42 INFO  UserTest2Properties:87 - **************************Deleting the user***********************
+2025-06-19 12:15:43 INFO  UserTest2Properties:90 - **************************User is deleted***********************
+2025-06-19 12:16:16 INFO  UserTest2Properties:41 - **************************Creating user***********************
+2025-06-19 12:16:19 INFO  UserTest2Properties:46 - **************************User is Created***********************
+2025-06-19 12:16:19 INFO  UserTest2Properties:53 - **************************Reading user info***********************
+2025-06-19 12:16:20 INFO  UserTest2Properties:57 - **************************User info is displayed***********************
+2025-06-19 12:16:20 INFO  UserTest2Properties:65 - **************************Updating user***********************
+2025-06-19 12:16:21 INFO  UserTest2Properties:74 - **************************user is updated***********************
+2025-06-19 12:16:22 INFO  UserTest2Properties:87 - **************************Deleting the user***********************
+2025-06-19 12:16:23 INFO  UserTest2Properties:90 - **************************User is deleted***********************
